@@ -2,9 +2,14 @@ package com.qa.pages;
 
 public class LoginPage {
 	
-	public void loginpage(){
+	public void loginPage(){
 		
-		System.out.println("loginpage");
+		System.out.println("login page");
 	}
+	
+    public void loginSet(){
+		
+		System.out.println("login set");
 
+}
 }
